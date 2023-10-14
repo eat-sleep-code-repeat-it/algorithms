@@ -1,2 +1,1 @@
-# algorithms
-all about algorithms
+# algorithms with node js
